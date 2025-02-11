@@ -1,0 +1,19 @@
+# Jupyter notebook checkpoints  
+.ipynb_checkpoints/  
+
+# Large or temporary files  
+*.pkl  
+*.csv  
+
+# Image files (unless necessary)  
+*.jpg  
+*.png  
+
+# Virtual environment  
+venv/  
+.env  
+
+# Cache and system files  
+__pycache__/  
+*.pyc  
+.DS_Store  
